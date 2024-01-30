@@ -1,6 +1,8 @@
 Certainly! Below is a README file template for your Book Recommendation System project:
 
-![Project Logo](https://dribbble.com/shots/7172485--Librarian-on-Duty-Animated-GIF-by-Mienar/attachments/174431?mode=media)
+![Alt Text](images/![librarian_gif_edited](https://github.com/Ayushmi-Adh/Book-Recommendation-System/assets/132826306/1706a070-706a-4eb4-b572-914186824c74)
+)
+
 
 ---
 
