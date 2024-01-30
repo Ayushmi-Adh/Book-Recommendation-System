@@ -1,12 +1,9 @@
 
-
+# Book Recommendation System Project
 ![librarian_gif_edited](https://github.com/Ayushmi-Adh/Book-Recommendation-System/assets/132826306/1706a070-706a-4eb4-b572-914186824c74)
-
-
 
 ---
 
-# Book Recommendation System Project
 
 This repository contains the code and queries for a Book Recommendation System project, aiming to provide personalized book suggestions based on user preferences and reading history.
 
