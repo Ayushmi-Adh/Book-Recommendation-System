@@ -1,6 +1,6 @@
 Certainly! Below is a README file template for your Book Recommendation System project:
 
-![Project Logo](https://dribbble.com/shots/7172485--Librarian-on-Duty-Animated-GIF-by-Mienar?utm_source=Clipboard_Shot&utm_campaign=mienar&utm_content=%22Librarian%20on%20Duty%22%2C%20Animated%20GIF%20by%20Mienar&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=mienar&utm_content=%22Librarian%20on%20Duty%22%2C%20Animated%20GIF%20by%20Mienar&utm_medium=Social_Share)
+![Project Logo](https://dribbble.com/shots/7172485--Librarian-on-Duty-Animated-GIF-by-Mienar/attachments/174431?mode=media)
 
 ---
 
@@ -126,6 +126,4 @@ The project is implemented in Python, utilizing libraries such as NumPy, Pandas,
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-Feel free to customize this README file according to your preferences and provide any additional information that you think would be relevant for users exploring your Book Recommendation System project.
