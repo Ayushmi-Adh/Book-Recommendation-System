@@ -1,5 +1,5 @@
 
-# Book Recommendation System Project
+# Book Recommendation System Project:
 ![librarian_gif_edited](https://github.com/Ayushmi-Adh/Book-Recommendation-System/assets/132826306/1706a070-706a-4eb4-b572-914186824c74)
 
 ---
