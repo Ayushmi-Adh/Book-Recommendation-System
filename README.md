@@ -20,13 +20,13 @@ This repository contains the code and queries for a Book Recommendation System p
 6. [Technologies Used](#technologies-used)
 7. [License](#license)
 
-## Introduction
+## Introduction:
 
 The Book Recommendation System project is designed to help users discover new books based on their preferences and reading history. The system uses collaborative filtering techniques and a Nearest Neighbors algorithm for generating personalized recommendations.
 
-## Queries
+## Queries:
 
-### Data Loading and Cleaning
+### Data Loading and Cleaning:
 
 1. **Loading and Cleaning Book Data:**
    - Loads book data from a CSV file, renames columns, and selects relevant features.
