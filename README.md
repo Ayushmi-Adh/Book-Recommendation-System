@@ -7,7 +7,7 @@
 
 This repository contains the code and queries for a Book Recommendation System project, aiming to provide personalized book suggestions based on user preferences and reading history.
 
-## Table of Contents
+## Table of Contents:
 
 1. [Introduction](#introduction)
 2. [Queries](#queries)
